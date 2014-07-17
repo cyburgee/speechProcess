@@ -83,7 +83,7 @@ int main(int argc, char** argv)
     */
     
     //calculate the power of the each segment of signal
-    int numSegs = ceil((float)soundInfo.frames/soundInfo.samplerate) * 2; //amount of 1/2 second segments
+    int numSegs = ceil((float)soundInfo.frames/soundInfo.samplerate*2); //amount of 1/2 second segments
     int samplesPerSeg = (int)soundInfo.samplerate/2;
     float *sumSegsChannelOne = new float[numSegs];
     float *sumSegsChannelTwo = new float[numSegs];
@@ -131,7 +131,6 @@ int main(int argc, char** argv)
             maskCountChannelOne = 0;
         }
         
-        
         if (sumSegsChannelTwo[i] > 1.0){ //test for audio activity in segment of channel two
             maskChannelTwo[i] = true;
             maskCountChannelTwo++;
@@ -151,7 +150,6 @@ int main(int argc, char** argv)
             }
             maskCountChannelTwo = 0;
         }
-        //cout << "sec " << (double)i/2 << ": " << maskChannelTwo[i] << endl;
     }
 
     findStartStopSamples(&snipsChannelOne,samplesPerSeg,channelOneData,soundInfo.samplerate,numSegs,(int)soundInfo.frames);

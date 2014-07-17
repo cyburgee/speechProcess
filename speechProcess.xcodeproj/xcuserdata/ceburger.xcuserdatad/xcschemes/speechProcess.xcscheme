@@ -59,7 +59,7 @@
       </BuildableProductRunnable>
       <CommandLineArguments>
          <CommandLineArgument
-            argument = "&quot;../data/test.wav&quot;"
+            argument = "&quot;../data/test2.wav&quot;"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>

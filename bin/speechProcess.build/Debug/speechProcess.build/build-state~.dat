@@ -191,12 +191,12 @@ t1397231116
 s6000
 
 N/Users/ceburger/Documents/CITN/speechProcess/bin/Debug/speechProcess
-t1405619917
-s88584
+t2
+s0
 
 N/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.o
-t1405620046
-s278668
+t1405562663
+s278700
 
 N/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/speechProcess.LinkFileList
 c0000000053C72F26000000000000007C
@@ -204,9 +204,9 @@ t1405562662
 s124
 
 N/Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp
-c0000000053C80F4E0000000000002538
-t1405620046
-s9528
+c0000000053C72E2C0000000000002591
+t1405562412
+s9617
 
 N/usr/local/Cellar/libsndfile/1.0.25/lib/libsndfile.1.dylib
 c0000000053BCDCE40000000000059A74
@@ -318,11 +318,11 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies450d1ece4678b941^166d1ece4678b941^---0#1#1#--18"Check dependencies36"B21A0B38-710D-4824-80C9-A18334EF9F47-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies9cc5d3a66677b941^054ddba66677b941^---0#1#1#--18"Check dependencies36"C5DA88CD-6B85-4257-B7CF-AB4B08D06C78-
 
 CCompileC bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.o /Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s427312846.118552
-e427312846.751815
+s427255462.843866
+e427255463.468381
 r1
 xCompileC
 xbin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.o
@@ -333,12 +333,12 @@ xc++
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp
 d/usr/local/include/sndfile.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp172"CompileC bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.o speechProcess/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilera56b1ece4678b941^8a77c0ce4678b941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp0000000000000000^2973"CompileC bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.o speechProcess/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ceburger/Documents/CITN/speechProcess    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -fmodules -fmodules-cache-path=/Users/ceburger/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-generated-files.hmap -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-own-target-headers.hmap -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-all-target-headers.hmap -iquote /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-project-headers.hmap -I/Users/ceburger/Documents/CITN/speechProcess/bin/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/DerivedSources/x86_64 -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/DerivedSources -F/Users/ceburger/Documents/CITN/speechProcess/bin/Debug -MMD -MT dependencies -MF /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.dia -c /Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp -o /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.o36"210ED8D0-95FD-4509-B747-4A00C83155F5-
-bF0E67449-BC58-4A95-8141-598439318F31
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp172"CompileC bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.o speechProcess/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerca1bd8a66677b941^29eb77a76677b941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp0000000000000000^2973"CompileC bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.o speechProcess/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ceburger/Documents/CITN/speechProcess    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -fmodules -fmodules-cache-path=/Users/ceburger/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-generated-files.hmap -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-own-target-headers.hmap -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-all-target-headers.hmap -iquote /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-project-headers.hmap -I/Users/ceburger/Documents/CITN/speechProcess/bin/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/DerivedSources/x86_64 -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/DerivedSources -F/Users/ceburger/Documents/CITN/speechProcess/bin/Debug -MMD -MT dependencies -MF /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.dia -c /Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp -o /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.o36"ADFF4C40-5766-4F86-B8D5-F8EB407E5ABE-
+bC1FFD783-3D0A-4CF4-AF2F-966720CE5A5F
 
 CLd /Users/ceburger/Documents/CITN/speechProcess/bin/Debug/speechProcess normal x86_64
-s427312846.753411
-e427312846.773828
+s427255463.469786
+e427255463.492627
 r1
 xLd
 x/Users/ceburger/Documents/CITN/speechProcess/bin/Debug/speechProcess
@@ -380,8 +380,8 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Link /Users/ceburger/Documents/CITN/speechProcess/bin/Debug/speechProcess40"Ld bin/Debug/speechProcess normal x86_64aaefc0ce4678b941^f81ac6ce4678b941^---0#0#1#--978"Ld bin/Debug/speechProcess normal x86_64    cd /Users/ceburger/Documents/CITN/speechProcess    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/ceburger/Documents/CITN/speechProcess/bin/Debug -L/usr/local/lib -L/usr/local/Cellar/libsndfile/1.0.25/lib -F/Users/ceburger/Documents/CITN/speechProcess/bin/Debug -filelist /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/speechProcess.LinkFileList -mmacosx-version-min=10.9 -lsndfile.1 -Xlinker -dependency_info -Xlinker /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/speechProcess_dependency_info.dat -o /Users/ceburger/Documents/CITN/speechProcess/bin/Debug/speechProcess36"9290F551-22CF-4C2F-8D16-A71D9581E16A-
-bF0E67449-BC58-4A95-8141-598439318F31
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Link /Users/ceburger/Documents/CITN/speechProcess/bin/Debug/speechProcess40"Ld bin/Debug/speechProcess normal x86_64c24f78a76677b941^541d7ea76677b941^---0#0#1#--978"Ld bin/Debug/speechProcess normal x86_64    cd /Users/ceburger/Documents/CITN/speechProcess    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/ceburger/Documents/CITN/speechProcess/bin/Debug -L/usr/local/lib -L/usr/local/Cellar/libsndfile/1.0.25/lib -F/Users/ceburger/Documents/CITN/speechProcess/bin/Debug -filelist /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/speechProcess.LinkFileList -mmacosx-version-min=10.9 -lsndfile.1 -Xlinker -dependency_info -Xlinker /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/speechProcess_dependency_info.dat -o /Users/ceburger/Documents/CITN/speechProcess/bin/Debug/speechProcess36"6C5B9F61-A66C-4454-84D4-938D9DCC520F-
+bC1FFD783-3D0A-4CF4-AF2F-966720CE5A5F
 
 CPBXCp speechProcess/speechProcess.1 bin/Debug/speechProcess.1
 r0
