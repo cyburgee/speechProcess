@@ -6,16 +6,23 @@
 //
 //
 
-// Example showing how to read and write images
-#include "main.h"
+#include <iostream>
+#include <fstream>
+#include <sstream>
+#include <vector>
+#include <math.h>
+#include <cmath>
+#include <sndfile.h>
 
 using namespace std;
 
-/*struct snippet
+struct snippet
 {
-    float start,stop;
-    int startSegment,endSegment,length;
-};*/
+    unsigned int start,stop; //start and stop of snippet in samples
+    unsigned int startSegment,endSegment,length; //which segments of the audio the snippet belongs to
+};
+
+void findStartStopSamples(vector<snippet *> *channelSnips, int samplesPerSeg, float *channelData, int sampleRate, int numSegs, int numFrames);
 
 int main(int argc, char** argv)
 {

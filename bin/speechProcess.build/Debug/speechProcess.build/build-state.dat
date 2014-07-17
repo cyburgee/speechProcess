@@ -4,7 +4,6 @@ r1
 cCheck dependencies
 cCompileC bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.o /Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 cLd /Users/ceburger/Documents/CITN/speechProcess/bin/Debug/speechProcess normal x86_64
-cPBXCp speechProcess/speechProcess.1 bin/Debug/speechProcess.1
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
 c0000000053480E1C00000000000000AA
@@ -186,240 +185,33 @@ c00000000533448A60000000000000ADC
 t1395935398
 s2780
 
-N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.eprintf.a
-c0000000053480E0C0000000000000720
-t1397231116
-s1824
-
 N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
 c0000000053480E0C0000000000001770
 t1397231116
 s6000
 
 N/Users/ceburger/Documents/CITN/speechProcess/bin/Debug/speechProcess
-t1405473815
-s88784
-
-N/Users/ceburger/Documents/CITN/speechProcess/bin/Debug/speechProcess.1
-t1404884670
-s3131
-
-N/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/main.o
-t1405022529
-s124284
-
-N/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/speechProcess.LinkFileList
-c0000000053BEEE4200000000000000F7
-t1405021762
-s247
-
-N/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/wavData.o
-t1405021763
-s69640
+t2
+s0
 
 N/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.o
-t1405473894
+t1405562663
 s278700
 
 N/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/speechProcess.LinkFileList
-c0000000053BF05B9000000000000007C
-t1405027769
+c0000000053C72F26000000000000007C
+t1405562662
 s124
 
-N/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/wavData.o
-c0000000053BEEE4D000000000001145C
-t1405021773
-s70748
-
 N/Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp
-c0000000053C5D4640000000000002457
-t1405473892
-s9303
-
-N/Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.h
-c0000000053C5C85C0000000000000286
-t1405470812
-s646
-
-N/Users/ceburger/Documents/CITN/speechProcess/speechProcess/speechProcess.1
-c0000000053BCC29B0000000000000C3B
-t1404879515
-s3131
-
-N/Users/ceburger/Documents/CITN/speechProcess/wavData.cpp
-c0000000053BCDAA200000000000006C2
-t1404885666
-s1730
-
-N/Users/ceburger/Documents/CITN/speechProcess/wavData.h
-c00000000000000000000000000000000
-t2
-s0
+c0000000053C72E2C0000000000002591
+t1405562412
+s9617
 
 N/usr/local/Cellar/libsndfile/1.0.25/lib/libsndfile.1.dylib
 c0000000053BCDCE40000000000059A74
 t1404886244
 s367220
-
-N/usr/local/include/opencv/cvaux.h
-c000000005347C0BE0000000000000B22
-t1397211326
-s2850
-
-N/usr/local/include/opencv/cvaux.hpp
-c0000000053BCC04D000000000000092A
-t1404878925
-s2346
-
-N/usr/local/include/opencv2/calib3d/calib3d.hpp
-c000000005347C0BE0000000000009303
-t1397211326
-s37635
-
-N/usr/local/include/opencv2/contrib/contrib.hpp
-c000000005347C0BE0000000000009647
-t1397211326
-s38471
-
-N/usr/local/include/opencv2/contrib/openfabmap.hpp
-c000000005347C0BE0000000000003207
-t1397211326
-s12807
-
-N/usr/local/include/opencv2/contrib/retina.hpp
-c000000005347C0BE0000000000005D96
-t1397211326
-s23958
-
-N/usr/local/include/opencv2/core/core.hpp
-c000000005347C0BE000000000002D7CC
-t1397211326
-s186316
-
-N/usr/local/include/opencv2/core/core_c.h
-c000000005347C0BE00000000000132A1
-t1397211326
-s78497
-
-N/usr/local/include/opencv2/core/mat.hpp
-c000000005347C0BE0000000000013AB1
-t1397211326
-s80561
-
-N/usr/local/include/opencv2/core/operations.hpp
-c000000005347C0BE00000000000202A9
-t1397211326
-s131753
-
-N/usr/local/include/opencv2/core/types_c.h
-c000000005347C0BE000000000000E080
-t1397211326
-s57472
-
-N/usr/local/include/opencv2/core/version.hpp
-c000000005347C0BE0000000000000BC5
-t1397211326
-s3013
-
-N/usr/local/include/opencv2/features2d/features2d.hpp
-c000000005347C0BE000000000000F98C
-t1397211326
-s63884
-
-N/usr/local/include/opencv2/flann/config.h
-c000000005347C0BE00000000000006FD
-t1397211326
-s1789
-
-N/usr/local/include/opencv2/flann/defines.h
-c000000005347C0BE000000000000124B
-t1397211326
-s4683
-
-N/usr/local/include/opencv2/flann/miniflann.hpp
-c000000005347C0BE0000000000001785
-t1397211326
-s6021
-
-N/usr/local/include/opencv2/highgui/highgui.hpp
-c000000005347C0BE00000000000023CA
-t1397211326
-s9162
-
-N/usr/local/include/opencv2/highgui/highgui_c.h
-c000000005347C0BE0000000000006C83
-t1397211326
-s27779
-
-N/usr/local/include/opencv2/imgproc/imgproc.hpp
-c000000005347C0BE000000000000DBE5
-t1397211326
-s56293
-
-N/usr/local/include/opencv2/imgproc/imgproc_c.h
-c000000005347C0BE0000000000007680
-t1397211326
-s30336
-
-N/usr/local/include/opencv2/imgproc/types_c.h
-c000000005347C0BE0000000000004034
-t1397211326
-s16436
-
-N/usr/local/include/opencv2/legacy/blobtrack.hpp
-c000000005347C0BE000000000000808E
-t1397211326
-s32910
-
-N/usr/local/include/opencv2/legacy/compat.hpp
-c000000005347C0BE000000000000758B
-t1397211326
-s30091
-
-N/usr/local/include/opencv2/legacy/legacy.hpp
-c000000005347C0BE000000000002160D
-t1397211326
-s136717
-
-N/usr/local/include/opencv2/ml/ml.hpp
-c000000005347C0BE00000000000132EA
-t1397211326
-s78570
-
-N/usr/local/include/opencv2/objdetect/objdetect.hpp
-c000000005347C0BE00000000000095A1
-t1397211326
-s38305
-
-N/usr/local/include/opencv2/opencv.hpp
-c000000005347C0BE0000000000000ABF
-t1397211326
-s2751
-
-N/usr/local/include/opencv2/photo/photo.hpp
-c000000005347C0BE0000000000000F9D
-t1397211326
-s3997
-
-N/usr/local/include/opencv2/photo/photo_c.h
-c000000005347C0BE0000000000000A57
-t1397211326
-s2647
-
-N/usr/local/include/opencv2/video/background_segm.hpp
-c000000005347C0BE0000000000002A84
-t1397211326
-s10884
-
-N/usr/local/include/opencv2/video/tracking.hpp
-c000000005347C0BE00000000000047FF
-t1397211326
-s18431
-
-N/usr/local/include/opencv2/video/video.hpp
-c000000005347C0BE0000000000000970
-t1397211326
-s2416
 
 N/usr/local/include/sndfile.h
 c00000000530B760A00000000000054A0
@@ -427,94 +219,94 @@ t1393260042
 s21664
 
 N/usr/local/lib/libopencv_calib3d.2.4.9.dylib
-c0000000053BCB4C4000000000009AC18
-t1404875972
-s633880
+c00000000000000000000000000000000
+t2
+s0
 
 N/usr/local/lib/libopencv_contrib.2.4.9.dylib
-c0000000053BCB4C400000000000F0DF4
-t1404875972
-s986612
+c00000000000000000000000000000000
+t2
+s0
 
 N/usr/local/lib/libopencv_core.2.4.9.dylib
-c0000000053BCB4C4000000000023EFE4
-t1404875972
-s2355172
+c00000000000000000000000000000000
+t2
+s0
 
 N/usr/local/lib/libopencv_features2d.2.4.9.dylib
-c0000000053BCB4C400000000000A9820
-t1404875972
-s694304
+c00000000000000000000000000000000
+t2
+s0
 
 N/usr/local/lib/libopencv_flann.2.4.9.dylib
-c0000000053BCB4C40000000000072234
-t1404875972
-s467508
+c00000000000000000000000000000000
+t2
+s0
 
 N/usr/local/lib/libopencv_gpu.2.4.9.dylib
-c0000000053BCB4C400000000000235A0
-t1404875972
-s144800
+c00000000000000000000000000000000
+t2
+s0
 
 N/usr/local/lib/libopencv_highgui.2.4.9.dylib
-c0000000053BCB4C40000000000DAE60C
-t1404875972
-s14345740
+c00000000000000000000000000000000
+t2
+s0
 
 N/usr/local/lib/libopencv_imgproc.2.4.9.dylib
-c0000000053BCB4C40000000000201854
-t1404875972
-s2103380
+c00000000000000000000000000000000
+t2
+s0
 
 N/usr/local/lib/libopencv_legacy.2.4.9.dylib
-c0000000053BCB4C400000000001000B8
-t1404875972
-s1048760
+c00000000000000000000000000000000
+t2
+s0
 
 N/usr/local/lib/libopencv_ml.2.4.9.dylib
-c0000000053BCB4C4000000000007C4B8
-t1404875972
-s509112
+c00000000000000000000000000000000
+t2
+s0
 
 N/usr/local/lib/libopencv_nonfree.2.4.9.dylib
-c0000000053BCB4C4000000000003A9A4
-t1404875972
-s240036
+c00000000000000000000000000000000
+t2
+s0
 
 N/usr/local/lib/libopencv_objdetect.2.4.9.dylib
-c0000000053BCB4C40000000000077A88
-t1404875972
-s490120
+c00000000000000000000000000000000
+t2
+s0
 
 N/usr/local/lib/libopencv_ocl.2.4.9.dylib
-c0000000053BCB4C400000000001BD62C
-t1404875972
-s1824300
+c00000000000000000000000000000000
+t2
+s0
 
 N/usr/local/lib/libopencv_photo.2.4.9.dylib
-c0000000053BCB4C4000000000001E4D0
-t1404875972
-s124112
+c00000000000000000000000000000000
+t2
+s0
 
 N/usr/local/lib/libopencv_stitching.2.4.9.dylib
-c0000000053BCB4C400000000000822A0
-t1404875972
-s533152
+c00000000000000000000000000000000
+t2
+s0
 
 N/usr/local/lib/libopencv_superres.2.4.9.dylib
-c0000000053BCB4C4000000000003EEFC
-t1404875972
-s257788
+c00000000000000000000000000000000
+t2
+s0
 
 N/usr/local/lib/libopencv_video.2.4.9.dylib
-c0000000053BCB4C4000000000004F540
-t1404875972
-s324928
+c00000000000000000000000000000000
+t2
+s0
 
 N/usr/local/lib/libopencv_videostab.2.4.9.dylib
-c0000000053BCB4C500000000000325F0
-t1404875973
-s206320
+c00000000000000000000000000000000
+t2
+s0
 
 N/usr/local/lib/libsndfile.1.dylib
 c0000000053BCDCE40000000000059A74
@@ -524,86 +316,13 @@ s367220
 CBuild AST from /Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp
 r0
 
-CBuild AST from /Users/ceburger/Documents/CITN/speechProcess/wavData.cpp
-r0
-
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies67edb2e50b76b941^16dab5e50b76b941^---0#1#1#--18"Check dependencies36"2014170E-CB6A-48D5-9A08-31A3C055F055-
-
-CCompileC bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/main.o /Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s426715328.332606
-e426715329.418206
-r1
-xCompileC
-xbin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/main.o
-x/Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp
-d/Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.h
-d/usr/local/include/opencv2/opencv.hpp
-d/usr/local/include/opencv2/core/core_c.h
-d/usr/local/include/opencv2/core/types_c.h
-d/usr/local/include/opencv2/core/core.hpp
-d/usr/local/include/opencv2/core/version.hpp
-d/usr/local/include/opencv2/core/operations.hpp
-d/usr/local/include/opencv2/core/mat.hpp
-d/usr/local/include/opencv2/flann/miniflann.hpp
-d/usr/local/include/opencv2/flann/defines.h
-d/usr/local/include/opencv2/flann/config.h
-d/usr/local/include/opencv2/imgproc/imgproc_c.h
-d/usr/local/include/opencv2/imgproc/types_c.h
-d/usr/local/include/opencv2/imgproc/imgproc.hpp
-d/usr/local/include/opencv2/photo/photo.hpp
-d/usr/local/include/opencv2/photo/photo_c.h
-d/usr/local/include/opencv2/video/video.hpp
-d/usr/local/include/opencv2/video/tracking.hpp
-d/usr/local/include/opencv2/video/background_segm.hpp
-d/usr/local/include/opencv2/features2d/features2d.hpp
-d/usr/local/include/opencv2/objdetect/objdetect.hpp
-d/usr/local/include/opencv2/calib3d/calib3d.hpp
-d/usr/local/include/opencv2/ml/ml.hpp
-d/usr/local/include/opencv2/highgui/highgui_c.h
-d/usr/local/include/opencv2/highgui/highgui.hpp
-d/usr/local/include/opencv2/contrib/contrib.hpp
-d/usr/local/include/opencv2/contrib/retina.hpp
-d/usr/local/include/opencv2/contrib/openfabmap.hpp
-d/usr/local/include/opencv/cvaux.hpp
-d/usr/local/include/opencv/cvaux.h
-d/usr/local/include/opencv2/legacy/legacy.hpp
-d/usr/local/include/opencv2/legacy/compat.hpp
-d/usr/local/include/opencv2/legacy/blobtrack.hpp
-d/Users/ceburger/Documents/CITN/speechProcess/wavData.h
-d/usr/local/include/sndfile.h
-o/Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp:27:40: warning: implicit conversion loses integer precision: 'long long' to 'long' [-Wshorten-64-to-32]
-o    long dataLength = soundInfo.frames * soundInfo.channels; //total amount of samples
-o         ~~~~~~~~~~   ~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~
-o1 warning generated.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp168"CompileC bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/main.o speechProcess/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler263855c0286fb941^62116bc1286fb941^-340"/Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp:27:40: warning: implicit conversion loses integer precision: 'long long' to 'long' [-Wshorten-64-to-32]    long dataLength = soundInfo.frames * soundInfo.channels; //total amount of samples         ~~~~~~~~~~   ~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@66"Implicit conversion loses integer precision: 'long long' to 'long'-426715329#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@74"file:///Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp0000000000000000^26#39#26#39#615#0#22"Value Conversion Issue2(3@74"file:///Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp0000000000000000^26#22#26#59#598#29#3@74"file:///Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp0000000000000000^26#9#26#19#585#0#-0#0#1#-19%DVTDocumentLocation4@74"file:///Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp0000000000000000^2959"CompileC bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/main.o speechProcess/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ceburger/Documents/CITN/speechProcess    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -fmodules -fmodules-cache-path=/Users/ceburger/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-generated-files.hmap -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-own-target-headers.hmap -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-all-target-headers.hmap -iquote /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-project-headers.hmap -I/Users/ceburger/Documents/CITN/speechProcess/bin/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/DerivedSources/i386 -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/DerivedSources -F/Users/ceburger/Documents/CITN/speechProcess/bin/Debug -MMD -MT dependencies -MF /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/main.dia -c /Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp -o /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/main.o36"1C85CE0A-1DEB-420A-A18A-2102A1102936-
-b02054F6B-B4D0-458F-A8FC-DF571E7C96D3
-
-CCompileC bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/wavData.o /Users/ceburger/Documents/CITN/speechProcess/wavData.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s426714562.700790
-e426714563.133865
-r1
-xCompileC
-xbin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/wavData.o
-x/Users/ceburger/Documents/CITN/speechProcess/wavData.cpp
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/ceburger/Documents/CITN/speechProcess/wavData.cpp
-d/Users/ceburger/Documents/CITN/speechProcess/wavData.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/ceburger/Documents/CITN/speechProcess/wavData.cpp160"CompileC bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/wavData.o wavData.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilerb37eb3c2256fb941^564722c3256fb941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/ceburger/Documents/CITN/speechProcess/wavData.cpp0000000000000000^2949"CompileC bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/wavData.o wavData.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ceburger/Documents/CITN/speechProcess    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -fmodules -fmodules-cache-path=/Users/ceburger/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-generated-files.hmap -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-own-target-headers.hmap -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-all-target-headers.hmap -iquote /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-project-headers.hmap -I/Users/ceburger/Documents/CITN/speechProcess/bin/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/DerivedSources/i386 -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/DerivedSources -F/Users/ceburger/Documents/CITN/speechProcess/bin/Debug -MMD -MT dependencies -MF /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/wavData.d --serialize-diagnostics /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/wavData.dia -c /Users/ceburger/Documents/CITN/speechProcess/wavData.cpp -o /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/wavData.o36"6DE38BFE-CCFC-4D3E-B67E-78DB89572EA1-
-b7B5286A4-E65F-4763-8A79-35DFD3974BF2
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies9cc5d3a66677b941^054ddba66677b941^---0#1#1#--18"Check dependencies36"C5DA88CD-6B85-4257-B7CF-AB4B08D06C78-
 
 CCompileC bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.o /Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s427166693.711511
-e427166694.991167
+s427255462.843866
+e427255463.468381
 r1
 xCompileC
 xbin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.o
@@ -613,145 +332,13 @@ xx86_64
 xc++
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp
-d/Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.h
-d/usr/local/include/opencv2/opencv.hpp
-d/usr/local/include/opencv2/core/core_c.h
-d/usr/local/include/opencv2/core/types_c.h
-d/usr/local/include/opencv2/core/core.hpp
-d/usr/local/include/opencv2/core/version.hpp
-d/usr/local/include/opencv2/core/operations.hpp
-d/usr/local/include/opencv2/core/mat.hpp
-d/usr/local/include/opencv2/flann/miniflann.hpp
-d/usr/local/include/opencv2/flann/defines.h
-d/usr/local/include/opencv2/flann/config.h
-d/usr/local/include/opencv2/imgproc/imgproc_c.h
-d/usr/local/include/opencv2/imgproc/types_c.h
-d/usr/local/include/opencv2/imgproc/imgproc.hpp
-d/usr/local/include/opencv2/photo/photo.hpp
-d/usr/local/include/opencv2/photo/photo_c.h
-d/usr/local/include/opencv2/video/video.hpp
-d/usr/local/include/opencv2/video/tracking.hpp
-d/usr/local/include/opencv2/video/background_segm.hpp
-d/usr/local/include/opencv2/features2d/features2d.hpp
-d/usr/local/include/opencv2/objdetect/objdetect.hpp
-d/usr/local/include/opencv2/calib3d/calib3d.hpp
-d/usr/local/include/opencv2/ml/ml.hpp
-d/usr/local/include/opencv2/highgui/highgui_c.h
-d/usr/local/include/opencv2/highgui/highgui.hpp
-d/usr/local/include/opencv2/contrib/contrib.hpp
-d/usr/local/include/opencv2/contrib/retina.hpp
-d/usr/local/include/opencv2/contrib/openfabmap.hpp
-d/usr/local/include/opencv/cvaux.hpp
-d/usr/local/include/opencv/cvaux.h
-d/usr/local/include/opencv2/legacy/legacy.hpp
-d/usr/local/include/opencv2/legacy/compat.hpp
-d/usr/local/include/opencv2/legacy/blobtrack.hpp
 d/usr/local/include/sndfile.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp172"CompileC bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.o speechProcess/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler8b37b6e50b76b941^28bbfde60b76b941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp0000000000000000^2973"CompileC bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.o speechProcess/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ceburger/Documents/CITN/speechProcess    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -fmodules -fmodules-cache-path=/Users/ceburger/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-generated-files.hmap -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-own-target-headers.hmap -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-all-target-headers.hmap -iquote /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-project-headers.hmap -I/Users/ceburger/Documents/CITN/speechProcess/bin/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/DerivedSources/x86_64 -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/DerivedSources -F/Users/ceburger/Documents/CITN/speechProcess/bin/Debug -MMD -MT dependencies -MF /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.dia -c /Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp -o /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.o36"D0001BC2-C989-43FF-928A-E42752052EDD-
-b99EA069A-6249-4A84-A8CE-1C1F9E9FB3C5
-
-CCompileC bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/wavData.o /Users/ceburger/Documents/CITN/speechProcess/wavData.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s426714572.830523
-e426714573.266560
-r1
-xCompileC
-xbin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/wavData.o
-x/Users/ceburger/Documents/CITN/speechProcess/wavData.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/ceburger/Documents/CITN/speechProcess/wavData.cpp
-d/Users/ceburger/Documents/CITN/speechProcess/wavData.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/ceburger/Documents/CITN/speechProcess/wavData.cpp164"CompileC bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/wavData.o wavData.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler4ab4d4cc256fb941^c43f44cd256fb941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/ceburger/Documents/CITN/speechProcess/wavData.cpp0000000000000000^2963"CompileC bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/wavData.o wavData.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ceburger/Documents/CITN/speechProcess    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -fmodules -fmodules-cache-path=/Users/ceburger/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-generated-files.hmap -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-own-target-headers.hmap -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-all-target-headers.hmap -iquote /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-project-headers.hmap -I/Users/ceburger/Documents/CITN/speechProcess/bin/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/DerivedSources/x86_64 -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/DerivedSources -F/Users/ceburger/Documents/CITN/speechProcess/bin/Debug -MMD -MT dependencies -MF /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/wavData.d --serialize-diagnostics /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/wavData.dia -c /Users/ceburger/Documents/CITN/speechProcess/wavData.cpp -o /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/wavData.o36"C6594BA0-DBCB-4CC7-A6B9-95E5007963EF-
-b65E66CEA-42C0-40E1-A69D-102B8AC6015D
-
-CLd /Users/ceburger/Documents/CITN/speechProcess/bin/Debug/speechProcess normal i386
-s426715329.419707
-e426715329.440306
-r0
-xLd
-x/Users/ceburger/Documents/CITN/speechProcess/bin/Debug/speechProcess
-xnormal
-xi386
-d/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/speechProcess.LinkFileList
-d/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/wavData.o
-d/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/main.o
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
-d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.eprintf.a
-d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
-old: warning: ld: warning: ld: warning: ignoring file /usr/local/lib/libsndfile.1.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libsndfile.1.dylibignoring file /usr/local/lib/libopencv_features2d.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_features2d.2.4.9.dylibignoring file /usr/local/lib/libopencv_photo.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_photo.2.4.9.dylib
-o
-o
-old: warning: ignoring file /usr/local/lib/libopencv_ocl.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_ocl.2.4.9.dylib
-old: warning: ignoring file /usr/local/lib/libopencv_videostab.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_videostab.2.4.9.dylib
-old: warning: ignoring file /usr/local/lib/libopencv_flann.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_flann.2.4.9.dylib
-old: warning: ld: warning: ld: warning: ignoring file /usr/local/lib/libopencv_gpu.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_gpu.2.4.9.dylibld: warning: ignoring file /usr/local/lib/libopencv_superres.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_superres.2.4.9.dylibignoring file /usr/local/lib/libopencv_calib3d.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_calib3d.2.4.9.dylib
-old: warning: ignoring file /usr/local/lib/libopencv_objdetect.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_objdetect.2.4.9.dylib
-old: warning: 
-oignoring file /usr/local/lib/libopencv_stitching.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_stitching.2.4.9.dylib
-oignoring file /usr/local/lib/libopencv_contrib.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_contrib.2.4.9.dylib
-o
-old: warning: ignoring file /usr/local/lib/libopencv_imgproc.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_imgproc.2.4.9.dylib
-old: warning: ignoring file /usr/local/lib/libopencv_video.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_video.2.4.9.dylib
-old: warning: ignoring file /usr/local/lib/libopencv_core.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_core.2.4.9.dylib
-old: warning: ignoring file /usr/local/lib/libopencv_ml.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_ml.2.4.9.dylib
-old: warning: ignoring file /usr/local/lib/libopencv_nonfree.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_nonfree.2.4.9.dylib
-old: warning: ignoring file /usr/local/lib/libopencv_legacy.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_legacy.2.4.9.dylib
-old: warning: ignoring file /usr/local/lib/libopencv_highgui.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_highgui.2.4.9.dylib
-oUndefined symbols for architecture i386:
-o  "cv::Mat::deallocate()", referenced from:
-o      cv::Mat::release() in main.o
-o  "cv::Mat::create(int, int const*, int)", referenced from:
-o      cv::Mat::create(int, int, int) in main.o
-o  "cv::fastFree(void*)", referenced from:
-o      cv::Mat::~Mat() in main.o
-o  "_sf_close", referenced from:
-o      _main in main.o
-o  "_sf_open", referenced from:
-o      _main in main.o
-o  "_sf_readf_float", referenced from:
-o      _main in main.o
-o  "_sf_write_float", referenced from:
-o      _main in main.o
-old: symbol(s) not found for architecture i386
-oclang: error: linker command failed with exit code 1 (use -v to see invocation)
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Link /Users/ceburger/Documents/CITN/speechProcess/bin/Debug/speechProcess38"Ld bin/Debug/speechProcess normal i386f67e6bc1286fb941^c3b770c1286fb941^-4311"ld: warning: ld: warning: ld: warning: ignoring file /usr/local/lib/libsndfile.1.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libsndfile.1.dylibignoring file /usr/local/lib/libopencv_features2d.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_features2d.2.4.9.dylibignoring file /usr/local/lib/libopencv_photo.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_photo.2.4.9.dylibld: warning: ignoring file /usr/local/lib/libopencv_ocl.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_ocl.2.4.9.dylibld: warning: ignoring file /usr/local/lib/libopencv_videostab.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_videostab.2.4.9.dylibld: warning: ignoring file /usr/local/lib/libopencv_flann.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_flann.2.4.9.dylibld: warning: ld: warning: ld: warning: ignoring file /usr/local/lib/libopencv_gpu.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_gpu.2.4.9.dylibld: warning: ignoring file /usr/local/lib/libopencv_superres.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_superres.2.4.9.dylibignoring file /usr/local/lib/libopencv_calib3d.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_calib3d.2.4.9.dylibld: warning: ignoring file /usr/local/lib/libopencv_objdetect.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_objdetect.2.4.9.dylibld: warning: ignoring file /usr/local/lib/libopencv_stitching.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_stitching.2.4.9.dylibignoring file /usr/local/lib/libopencv_contrib.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_contrib.2.4.9.dylibld: warning: ignoring file /usr/local/lib/libopencv_imgproc.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_imgproc.2.4.9.dylibld: warning: ignoring file /usr/local/lib/libopencv_video.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_video.2.4.9.dylibld: warning: ignoring file /usr/local/lib/libopencv_core.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_core.2.4.9.dylibld: warning: ignoring file /usr/local/lib/libopencv_ml.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_ml.2.4.9.dylibld: warning: ignoring file /usr/local/lib/libopencv_nonfree.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_nonfree.2.4.9.dylibld: warning: ignoring file /usr/local/lib/libopencv_legacy.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_legacy.2.4.9.dylibld: warning: ignoring file /usr/local/lib/libopencv_highgui.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_highgui.2.4.9.dylibUndefined symbols for architecture i386:  "cv::Mat::deallocate()", referenced from:      cv::Mat::release() in main.o  "cv::Mat::create(int, int const*, int)", referenced from:      cv::Mat::create(int, int, int) in main.o  "cv::fastFree(void*)", referenced from:      cv::Mat::~Mat() in main.o  "_sf_close", referenced from:      _main in main.o  "_sf_open", referenced from:      _main in main.o  "_sf_readf_float", referenced from:      _main in main.o  "_sf_write_float", referenced from:      _main in main.old: symbol(s) not found for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)30(21%IDEActivityLogMessage2@549"Ld: warning: ld: warning: ignoring file /usr/local/lib/libsndfile.1.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libsndfile.1.dylibignoring file /usr/local/lib/libopencv_features2d.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_features2d.2.4.9.dylibignoring file /usr/local/lib/libopencv_photo.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_photo.2.4.9.dylib-426715329#0#563#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@173"Ignoring file /usr/local/lib/libopencv_ocl.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_ocl.2.4.9.dylib-426715329#565#187#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@185"Ignoring file /usr/local/lib/libopencv_videostab.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_videostab.2.4.9.dylib-426715329#752#199#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@177"Ignoring file /usr/local/lib/libopencv_flann.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_flann.2.4.9.dylib-426715329#951#191#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@576"Ld: warning: ld: warning: ignoring file /usr/local/lib/libopencv_gpu.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_gpu.2.4.9.dylibld: warning: ignoring file /usr/local/lib/libopencv_superres.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_superres.2.4.9.dylibignoring file /usr/local/lib/libopencv_calib3d.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_calib3d.2.4.9.dylib-426715329#1142#590#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@185"Ignoring file /usr/local/lib/libopencv_objdetect.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_objdetect.2.4.9.dylib-426715329#1732#199#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@0"-426715329#1931#14#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@181"Ignoring file /usr/local/lib/libopencv_imgproc.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_imgproc.2.4.9.dylib-426715329#2314#195#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@177"Ignoring file /usr/local/lib/libopencv_video.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_video.2.4.9.dylib-426715329#2509#191#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@175"Ignoring file /usr/local/lib/libopencv_core.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_core.2.4.9.dylib-426715329#2700#189#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@171"Ignoring file /usr/local/lib/libopencv_ml.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_ml.2.4.9.dylib-426715329#2889#185#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@181"Ignoring file /usr/local/lib/libopencv_nonfree.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_nonfree.2.4.9.dylib-426715329#3074#195#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@179"Ignoring file /usr/local/lib/libopencv_legacy.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_legacy.2.4.9.dylib-426715329#3269#193#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@181"Ignoring file /usr/local/lib/libopencv_highgui.2.4.9.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/lib/libopencv_highgui.2.4.9.dylib-426715329#3462#195#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@41""cv::Mat::deallocate()", referenced from:-426715329#3698#44#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@28"Cv::Mat::release() in main.o-426715329#3742#35#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@57""cv::Mat::create(int, int const*, int)", referenced from:-426715329#3777#60#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@40"Cv::Mat::create(int, int, int) in main.o-426715329#3837#47#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@39""cv::fastFree(void*)", referenced from:-426715329#3884#42#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@25"Cv::Mat::~Mat() in main.o-426715329#3926#32#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@29""_sf_close", referenced from:-426715329#3958#32#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-426715329#3990#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@28""_sf_open", referenced from:-426715329#4012#31#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-426715329#4043#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@35""_sf_readf_float", referenced from:-426715329#4065#38#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-426715329#4103#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@35""_sf_write_float", referenced from:-426715329#4125#38#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-426715329#4163#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@41"Symbol(s) not found for architecture i386-426715329#4185#46#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-426715329#4231#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--0#0#1#--1371"Ld bin/Debug/speechProcess normal i386    cd /Users/ceburger/Documents/CITN/speechProcess    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/ceburger/Documents/CITN/speechProcess/bin/Debug -L/usr/local/lib -L/usr/local/Cellar/libsndfile/1.0.25/lib -F/Users/ceburger/Documents/CITN/speechProcess/bin/Debug -filelist /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/speechProcess.LinkFileList -mmacosx-version-min=10.9 -lsndfile.1 -lopencv_features2d.2.4.9 -lopencv_photo.2.4.9 -lopencv_ocl.2.4.9 -lopencv_videostab.2.4.9 -lopencv_flann.2.4.9 -lopencv_gpu.2.4.9 -lopencv_objdetect.2.4.9 -lopencv_calib3d.2.4.9 -lopencv_superres.2.4.9 -lopencv_stitching.2.4.9 -lopencv_contrib.2.4.9 -lopencv_imgproc.2.4.9 -lopencv_highgui.2.4.9 -lopencv_core.2.4.9 -lopencv_video.2.4.9 -lopencv_ml.2.4.9 -lopencv_nonfree.2.4.9 -lopencv_legacy.2.4.9 -Xlinker -dependency_info -Xlinker /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/i386/speechProcess_dependency_info.dat -o /Users/ceburger/Documents/CITN/speechProcess/bin/Debug/speechProcess36"81DD66C6-1C71-4BFF-AC55-01BD5DF261F5-
-b02054F6B-B4D0-458F-A8FC-DF571E7C96D3
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp172"CompileC bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.o speechProcess/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerca1bd8a66677b941^29eb77a76677b941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp0000000000000000^2973"CompileC bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.o speechProcess/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ceburger/Documents/CITN/speechProcess    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -fmodules -fmodules-cache-path=/Users/ceburger/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-generated-files.hmap -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-own-target-headers.hmap -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-all-target-headers.hmap -iquote /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/speechProcess-project-headers.hmap -I/Users/ceburger/Documents/CITN/speechProcess/bin/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/DerivedSources/x86_64 -I/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/DerivedSources -F/Users/ceburger/Documents/CITN/speechProcess/bin/Debug -MMD -MT dependencies -MF /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.dia -c /Users/ceburger/Documents/CITN/speechProcess/speechProcess/main.cpp -o /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.o36"ADFF4C40-5766-4F86-B8D5-F8EB407E5ABE-
+bC1FFD783-3D0A-4CF4-AF2F-966720CE5A5F
 
 CLd /Users/ceburger/Documents/CITN/speechProcess/bin/Debug/speechProcess normal x86_64
-s427166694.993594
-e427166695.022710
+s427255463.469786
+e427255463.492627
 r1
 xLd
 x/Users/ceburger/Documents/CITN/speechProcess/bin/Debug/speechProcess
@@ -760,24 +347,6 @@ xx86_64
 d/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/speechProcess.LinkFileList
 d/Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/main.o
 d/usr/local/lib/libsndfile.1.dylib
-d/usr/local/lib/libopencv_features2d.2.4.9.dylib
-d/usr/local/lib/libopencv_photo.2.4.9.dylib
-d/usr/local/lib/libopencv_ocl.2.4.9.dylib
-d/usr/local/lib/libopencv_videostab.2.4.9.dylib
-d/usr/local/lib/libopencv_flann.2.4.9.dylib
-d/usr/local/lib/libopencv_gpu.2.4.9.dylib
-d/usr/local/lib/libopencv_objdetect.2.4.9.dylib
-d/usr/local/lib/libopencv_calib3d.2.4.9.dylib
-d/usr/local/lib/libopencv_superres.2.4.9.dylib
-d/usr/local/lib/libopencv_stitching.2.4.9.dylib
-d/usr/local/lib/libopencv_contrib.2.4.9.dylib
-d/usr/local/lib/libopencv_imgproc.2.4.9.dylib
-d/usr/local/lib/libopencv_highgui.2.4.9.dylib
-d/usr/local/lib/libopencv_core.2.4.9.dylib
-d/usr/local/lib/libopencv_video.2.4.9.dylib
-d/usr/local/lib/libopencv_ml.2.4.9.dylib
-d/usr/local/lib/libopencv_nonfree.2.4.9.dylib
-d/usr/local/lib/libopencv_legacy.2.4.9.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
 d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
@@ -811,8 +380,8 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Link /Users/ceburger/Documents/CITN/speechProcess/bin/Debug/speechProcess40"Ld bin/Debug/speechProcess normal x86_64a86efee60b76b941^f6d105e70b76b941^---0#0#1#--1379"Ld bin/Debug/speechProcess normal x86_64    cd /Users/ceburger/Documents/CITN/speechProcess    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/ceburger/Documents/CITN/speechProcess/bin/Debug -L/usr/local/lib -L/usr/local/Cellar/libsndfile/1.0.25/lib -F/Users/ceburger/Documents/CITN/speechProcess/bin/Debug -filelist /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/speechProcess.LinkFileList -mmacosx-version-min=10.9 -lsndfile.1 -lopencv_features2d.2.4.9 -lopencv_photo.2.4.9 -lopencv_ocl.2.4.9 -lopencv_videostab.2.4.9 -lopencv_flann.2.4.9 -lopencv_gpu.2.4.9 -lopencv_objdetect.2.4.9 -lopencv_calib3d.2.4.9 -lopencv_superres.2.4.9 -lopencv_stitching.2.4.9 -lopencv_contrib.2.4.9 -lopencv_imgproc.2.4.9 -lopencv_highgui.2.4.9 -lopencv_core.2.4.9 -lopencv_video.2.4.9 -lopencv_ml.2.4.9 -lopencv_nonfree.2.4.9 -lopencv_legacy.2.4.9 -Xlinker -dependency_info -Xlinker /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/speechProcess_dependency_info.dat -o /Users/ceburger/Documents/CITN/speechProcess/bin/Debug/speechProcess36"44C26C9C-5D13-4470-8068-472C858DFEC6-
-b99EA069A-6249-4A84-A8CE-1C1F9E9FB3C5
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Link /Users/ceburger/Documents/CITN/speechProcess/bin/Debug/speechProcess40"Ld bin/Debug/speechProcess normal x86_64c24f78a76677b941^541d7ea76677b941^---0#0#1#--978"Ld bin/Debug/speechProcess normal x86_64    cd /Users/ceburger/Documents/CITN/speechProcess    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/ceburger/Documents/CITN/speechProcess/bin/Debug -L/usr/local/lib -L/usr/local/Cellar/libsndfile/1.0.25/lib -F/Users/ceburger/Documents/CITN/speechProcess/bin/Debug -filelist /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/speechProcess.LinkFileList -mmacosx-version-min=10.9 -lsndfile.1 -Xlinker -dependency_info -Xlinker /Users/ceburger/Documents/CITN/speechProcess/bin/speechProcess.build/Debug/speechProcess.build/Objects-normal/x86_64/speechProcess_dependency_info.dat -o /Users/ceburger/Documents/CITN/speechProcess/bin/Debug/speechProcess36"6C5B9F61-A66C-4454-84D4-938D9DCC520F-
+bC1FFD783-3D0A-4CF4-AF2F-966720CE5A5F
 
 CPBXCp speechProcess/speechProcess.1 bin/Debug/speechProcess.1
 r0
